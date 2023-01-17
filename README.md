@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupin77&show_icons=true&locale=en&layout=compact" alt="rupin77" /></p>
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rupin77&show_icons=true&locale=en" alt="rupin77" /></p>
+<p>&nbsp;<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=rupin77&show_icons=true&locale=en" alt="rupin77" /></p>
